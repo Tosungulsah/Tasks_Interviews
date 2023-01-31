@@ -26,5 +26,17 @@ output:
             }
         }
         System.out.println(firstDublicated);
+ /* ArrayList<Integer> result = new ArrayList<>(); //{10, 20}
+
+        for (Integer each : numbers) {
+            if(result.contains(each)){
+                continue;
+            }
+
+            result.add(each);
+        }
+        System.out.println(result);
+
+        */
     }
 }
