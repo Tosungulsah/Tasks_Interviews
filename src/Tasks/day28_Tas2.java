@@ -19,7 +19,12 @@ integer arraylist
 
 
         Collections.swap(numbers, 0, numbers.size()-1 );
-
+/*
+  int temp=numbers.get(0);
+        numbers.set(0,numbers.get(numbers.size()-1));
+        numbers.set(numbers.size()-1, temp);
+        System.out.println(numbers);
+ */
 
         System.out.println( numbers);
     }
