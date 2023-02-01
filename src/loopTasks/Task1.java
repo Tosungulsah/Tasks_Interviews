@@ -9,6 +9,7 @@ public class Task1 {
             sum += i;
         }
         System.out.println(sum);
+        //jhjkh
 
     }
 }
