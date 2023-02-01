@@ -11,7 +11,7 @@ public class Task6 {
         int count=1;
         for (int i = 1; i <= n; i++) {
             count *=i;
-
+//gjfıjgıfj
         }
         System.out.println(count);
 
