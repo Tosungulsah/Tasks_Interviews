@@ -16,7 +16,7 @@ public class Day28_Task3 {
 
             }
         }
-
+        System.out.println(numbers);
         }
         }
 
