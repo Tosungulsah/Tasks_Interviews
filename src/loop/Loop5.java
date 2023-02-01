@@ -6,11 +6,11 @@ public class Loop5 {
         for (int i = 0; i < 101; i++) {
 
             if(i % 3 == 0 && i % 5 == 0){
-                System.out.print("FizzBuzz   ");
+                System.out.println("FizzBuzz   ");
             } else if (i% 5 == 0){
-                System.out.print("Buzz  ");
+                System.out.println("Buzz  ");
             }else if (i% 3 == 0) {
-                System.out.print("Fizz  ");
+                System.out.println("Fizz  ");
 
             }else {
                 System.out.println(i);
