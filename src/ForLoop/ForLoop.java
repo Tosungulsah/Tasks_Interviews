@@ -12,6 +12,6 @@ public class ForLoop {
         System.out.println(sum);
     }
 
-    //Summing up numbers from 1 to 100:
+    //Summing up numbers from 1 to 100: //fghfh
 
 }
